@@ -8,4 +8,4 @@ Below are the collections of Python projects compiled and uploaded to GitHub.
 
 •	King Country, USA House Sale Price Analysis (May2014-May2015). https://github.com/JeyT67/KingCountry_USA-House-Pricing-Analysis
 
-•	San Francisco Movie Analysis (Year1986 - Year2016). https://github.com/JeyT67/San-Francisco-Movie-Analysis
+•	IMDB Movie Analysis (Year1986 - Year2016). https://github.com/JeyT67/San-Francisco-Movie-Analysis
