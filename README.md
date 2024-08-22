@@ -2,7 +2,7 @@
 
 Below are the collections of Python projects compiled and uploaded to GitHub.
 
-•	-
+•	AirBnB Singapore Analysis. https://github.com/JeyT67/AirBNB-Singapore-Analysis
 
 •	Automating Crypto Website. https://github.com/JeyT67/Automating-Crypto-Website
 
